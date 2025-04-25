@@ -1,5 +1,5 @@
 🧬 About Morpho
-Launched in May 2021, Morpho is building the future of decentralized AI onchain. We’re not just another cloud platform — we’re a fully decentralized AI stack, powered by blockchain verification and global infrastructure from data centers to edge devices.
+Morpho is building the future of decentralized AI onchain. We’re not just another cloud platform — we’re a fully decentralized AI stack, powered by blockchain verification and global infrastructure from data centers to edge devices.
 
 With services from data collection and labeling to decentralized storage and model training, Morpho flips the script on traditional AI development. Transparent. Trustless. Permissionless. AI, the crypto way.
 
@@ -17,7 +17,7 @@ Global users label and contribute training data — all recorded immutably via b
 Decentralized object storage that rivals AWS — at 60% less cost.
 Powered by Seagate, Tencent Cloud, and Deimos edge devices.
 
-🔹 Morpho Compute (Coming 2024)
+🔹 Morpho Compute 
 Distributed GPU infrastructure for training and inference — geo-distributed, cost-optimized, fully decentralized.
 
 🔹 Olympus Protocol
